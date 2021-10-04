@@ -14,7 +14,7 @@ const Home = () => {
     // console.log(courses)
 
     return (
-        <div className="home container">
+        <div className="home">
             <h2>Top Courses in <span>Web Development</span></h2>
 
             <div className="highlight-course">

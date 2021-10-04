@@ -1,5 +1,5 @@
 .home{
-    margin: 20px 20px
+    margin: 20px 20%;
 }
 
 .home span{
@@ -10,6 +10,7 @@
 .highlight-course{
     display: flex;
     flex-wrap: wrap;
+
     /* margin-top: 20px; */
     margin: auto;
     /* border: 1px solid red; */
@@ -83,4 +84,12 @@
     font-size: 14px;
     color: #6a6f73;
     text-decoration:line-through;
+}
+
+
+/* media queries */
+@media (max-width: 1400px){
+    .home{
+        margin: 20px 20px;
+    }
 }
