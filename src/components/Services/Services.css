@@ -1,0 +1,17 @@
+.services{
+    margin-top: 20px;
+}
+
+.services span{
+    font-weight: bold;
+    color: navy;
+}
+
+.courses{
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 1px solid red; */
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}

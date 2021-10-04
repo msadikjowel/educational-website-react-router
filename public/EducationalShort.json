@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Become a WordPress Developer: Unlocking Power With Code",
+        "author": "Brad Schiff",
+        "price": 23.99,
+        "img": "https://img-c.udemycdn.com/course/240x135/1010586_b622_3.jpg",
+        "avgRate": 3.7,
+        "rated": 15932,
+        "oldPrice": 139.99
+    },
+    {
+        "id": 2,
+        "name": "Understanding TypeScript - 2021 Edition",
+        "author": "Maximilian Schwarzmuller",
+        "price": 14.99,
+        "img": "https://img-c.udemycdn.com/course/240x135/947098_02ec_2.jpg",
+        "avgRate": 4.7,
+        "rated": 24881,
+        "oldPrice": 89.99
+    },
+    {
+        "id": 3,
+        "name": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2021",
+        "author": "Jonas Schmedtmann",
+        "price": 13.99,
+        "img": "https://img-c.udemycdn.com/course/240x135/1672410_9ff1_5.jpg",
+        "avgRate": 4.8,
+        "rated": 8648,
+        "oldPrice": 89.99
+    },
+    {
+        "id": 4,
+        "name": "Docker & Kubernetes: The Practical Guide",
+        "author": "Maximilian Schwarzmuller",
+        "price": 13.99,
+        "img": "https://img-c.udemycdn.com/course/240x135/3490000_d298_2.jpg",
+        "avgRate": 2.8,
+        "rated": 5474,
+        "oldPrice": 89.99
+    },
+    {
+        "id": 5,
+        "name": "AWS CloudFormation Master Class v2 [2021]",
+        "author": "Stephane Maarek",
+        "price": 13.99,
+        "img": "https://img-c.udemycdn.com/course/240x135/1362052_0bbe_6.jpg",
+        "avgRate": 4.7,
+        "rated": 8573,
+        "oldPrice": 89.99
+    }
+]

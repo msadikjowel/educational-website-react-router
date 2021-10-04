@@ -1,0 +1,19 @@
+.notfound img{
+    /* height: 100vh; */
+    width: 60rem;
+    text-align: center;
+}
+
+.notfound{
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.notfound Button{
+    background-color: navy;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
